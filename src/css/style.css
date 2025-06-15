@@ -208,7 +208,7 @@ body {
 
 /* Footer */
 #footer {
-  background: #111111;
+  background: transparent;
 }
 
 #footer .container {
@@ -216,14 +216,14 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: #ffffff;
+  color: #ffcd42;
   min-height: 160px;
   text-align: center;
 }
 
 #footer a {
   font-size: 0.8rem;
-  color: #fff;
+  color: #ffcd42;
 }
 
 #footer a:hover {
